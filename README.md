@@ -1,1 +1,1 @@
-# Adaptify
+Adaptify is a responsive web development project designed to provide a seamless user experience across all devices. Whether viewed on a desktop, tablet, or mobile phone, FluidFlex adapts gracefully to ensure optimal usability and aesthetics.
